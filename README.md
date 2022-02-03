@@ -1,1 +1,3 @@
-# weatherscan-emulator
+Run Weatherscan.html file app in Google Chrome....
+This also required node LTS which can be found at https://nodejs.org/en/download/
+If the weatherscan.app is messed up, consider re-downloading the weatherscan file.
